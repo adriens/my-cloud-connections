@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1949.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1114.000000 -913.000000 1949.000000 1537.000000" height="1537.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -240.264511,384.885681 C -288.406738,377.328613 -349.284485,293.779694 -341.727417,245.637466"
+              class="id_github id_travis" stroke-opacity="1.0" stroke="#ff0f3a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.264511,384.885681 C -277.906006,466.275940 -456.453674,531.899048 -537.843933,494.257568"
+              class="id_github id_gemnasium" stroke-opacity="1.0"
+              stroke="#ff0f3a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.264511,384.885681 C -307.653931,413.067688 -451.011108,354.256653 -479.193115,286.867249"
+              class="id_github id_jitpack" stroke-opacity="1.0" stroke="#ff0f3a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 643.445740,97.024963 486.343994,-24.358265 474.437775,-117.186592"
+              class="id_facebook id_tripadvisor" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C 16.977888,-179.213531 350.836639,-216.158020 474.437775,-117.186592"
+              class="id_google id_tripadvisor" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.264511,384.885681 C -232.497330,415.042755 -266.082214,471.929199 -296.239288,479.696381"
+              class="id_github id_gitter" stroke-opacity="1.0" stroke="#ff0f3a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.264511,384.885681 C -214.918274,372.288513 -158.003143,391.412079 -145.405960,416.758331"
+              class="id_github id_coveralls" stroke-opacity="1.0"
+              stroke="#ff0f3a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -59.732792,306.507080 C -54.817181,345.691986 -106.221085,411.842712 -145.405960,416.758331"
+              class="id_bitbucket id_coveralls" stroke-opacity="1.0"
+              stroke="#ff0f3a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C -5.117493,12.359339 8.238960,229.631027 -59.732792,306.507080"
+              class="id_google id_bitbucket" stroke-opacity="1.0"
+              stroke="#7f699c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C -118.765228,-79.057060 -138.755798,-169.381531 -115.311150,-206.153229"
+              class="id_google id_jira" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.264511,384.885681 C -205.449585,402.903961 -180.254639,482.153778 -198.272919,516.968689"
+              class="id_github id_codcov" stroke-opacity="1.0" stroke="#ff0f3a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -59.732792,306.507080 C -45.348495,376.307434 -128.472565,502.584412 -198.272919,516.968689"
+              class="id_bitbucket id_codcov" stroke-opacity="1.0"
+              stroke="#ff0f3a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -248.786713,610.940002 C -257.478210,582.042969 -227.169937,525.660156 -198.272919,516.968689"
+              class="id_gitlab id_codcov" stroke-opacity="1.0" stroke="#ff0f3a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 636.688171,66.601547 515.085144,-110.553139 533.602417,-210.139023"
+              class="id_facebook id_pinterest" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C 10.220325,-209.636932 379.577881,-302.352905 533.602417,-210.139023"
+              class="id_google id_pinterest" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 778.697266,94.019562 828.980957,171.005554 820.080200,213.428787"
+              class="id_facebook id_instagram" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 637.087708,208.617981 303.059509,245.087250 179.560318,145.900940"
+              class="id_facebook id_vimeo" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C 10.619896,-67.620514 167.552216,53.287495 179.560318,145.900940"
+              class="id_google id_vimeo" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 703.134888,72.103897 672.948364,2.872741 685.963257,-30.266468"
+              class="id_facebook id_netflix" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 549.077942,141.780151 183.291779,-54.021980 126.630402,-241.218079"
+              class="id_facebook id_stackoverflow" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C -77.389893,-134.458344 47.784473,-245.821732 126.630402,-241.218079"
+              class="id_google id_stackoverflow" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 620.838318,101.504578 423.106079,-47.070274 406.720306,-162.505966"
+              class="id_facebook id_dailymotion" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C -5.629482,-174.733902 287.598816,-238.870026 406.720306,-162.505966"
+              class="id_google id_dailymotion" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C -103.897858,-124.425476 -33.534744,-260.501526 35.278320,-282.405853"
+              class="id_google id_dropbox" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.264511,384.885681 C -269.010254,442.115112 -397.972992,484.840698 -455.202423,456.094971"
+              class="id_github id_zenhub" stroke-opacity="1.0" stroke="#ff0f3a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C -137.954651,-107.413757 -144.194290,-269.057404 -92.392952,-325.018524"
+              class="id_google id_zendesk" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -100.022034,-365.591675 C -90.381584,-359.002869 -85.804138,-334.658966 -92.392952,-325.018524"
+              class="id_microsoft id_zendesk" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1100.125488,-862.031799 C -1100.937866,-877.546265 -1078.884521,-902.036499 -1063.369995,-902.848816"
+              class="id_salesforce id_heroku" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C -88.935638,-98.586212 -34.888092,-173.460052 8.085706,-180.402145"
+              class="id_google id_trello" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C -137.960983,-52.639374 -226.371689,-132.130966 -229.344727,-188.098389"
+              class="id_google id_asana" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 733.498779,47.040878 786.452820,-14.238861 824.530701,-17.014111"
+              class="id_facebook id_giphy" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 731.823792,140.386459 642.246887,216.612610 586.979248,212.162369"
+              class="id_facebook id_linkedin" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 614.905762,248.280884 188.110229,310.971619 24.948137,189.603333"
+              class="id_facebook id_slides.io" stroke-opacity="1.0"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C -11.562061,-27.957603 52.602951,119.171844 24.948137,189.603333"
+              class="id_google id_slides.io" stroke-opacity="1.0"
+              stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 250.337952,317.146515 C 179.751343,336.715851 44.517464,260.189941 24.948137,189.603333"
+              class="id_twitter id_slides.io" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.264511,384.885681 C -226.278458,292.786682 -67.150864,175.617279 24.948137,189.603333"
+              class="id_github id_slides.io" stroke-opacity="1.0"
+              stroke="#a52a3c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 595.961975,109.663521 348.676819,-63.987480 324.132080,-204.299545"
+              class="id_facebook id_prezi" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C -30.505854,-166.574966 213.169525,-255.787231 324.132080,-204.299545"
+              class="id_google id_prezi" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 648.869873,243.615601 280.018311,350.254517 121.521484,262.850281"
+              class="id_facebook id_gitbook" stroke-opacity="1.0"
+              stroke="#b9671d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C 22.402000,-32.622883 144.511017,158.454742 121.521484,262.850281"
+              class="id_google id_gitbook" stroke-opacity="1.0" stroke="#7f699c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 250.337952,317.146515 C 213.715408,332.050568 136.425522,299.472839 121.521484,262.850281"
+              class="id_twitter id_gitbook" stroke-opacity="1.0"
+              stroke="#a52a3c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.264511,384.885681 C -192.314377,288.121399 24.757196,214.900146 121.521484,262.850281"
+              class="id_github id_gitbook" stroke-opacity="1.0" stroke="#ff0f3a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C -49.922508,-5.978813 -76.266365,116.578140 -125.899963,148.649170"
+              class="id_google id_cloudbees" stroke-opacity="1.0"
+              stroke="#7f699c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.264511,384.885681 C -264.638916,314.765442 -196.020172,173.023560 -125.899963,148.649170"
+              class="id_github id_cloudbees" stroke-opacity="1.0"
+              stroke="#ff0f3a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 591.378357,84.806709 374.502991,-133.004913 374.815063,-277.900604"
+              class="id_facebook id_booking" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C -35.089462,-191.431778 238.995697,-324.804688 374.815063,-277.900604"
+              class="id_google id_booking" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 656.362427,219.493896 334.932434,301.189209 200.557297,221.277634"
+              class="id_facebook id_disqus" stroke-opacity="1.0"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 250.337952,317.146515 C 221.208038,307.928894 191.339645,250.407547 200.557297,221.277634"
+              class="id_twitter id_disqus" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C 29.894627,-56.744576 199.425140,109.389465 200.557297,221.277634"
+              class="id_google id_disqus" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 704.866211,184.327057 508.942078,286.027740 409.733795,254.619904"
+              class="id_facebook id_kinja" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 250.337952,317.146515 C 269.711823,272.762024 365.349304,235.246048 409.733795,254.619904"
+              class="id_twitter id_kinja" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C 78.398407,-91.911423 373.434784,94.227943 409.733795,254.619904"
+              class="id_google id_kinja" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 409.733795,254.619904 C 440.204712,271.264160 460.944641,341.936920 444.300385,372.407837"
+              class="id_kinja id_lifehacker" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 680.833435,178.482513 457.626892,235.367172 364.263153,179.926544"
+              class="id_facebook id_airfrance" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 250.337952,317.146515 C 245.678986,266.917480 314.034119,184.585510 364.263153,179.926544"
+              class="id_twitter id_airfrance" stroke-opacity="1.0"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 586.979248,212.162369 C 535.988892,250.258423 402.359192,230.916931 364.263153,179.926544"
+              class="id_linkedin id_airfrance" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.993546,-55.612415 C 54.365585,-97.755966 322.119598,43.567413 364.263153,179.926544"
+              class="id_google id_airfrance" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.274048,85.118790 C 686.355164,72.389984 630.570068,-21.581520 643.298889,-71.500389"
+              class="id_facebook id_opodo" stroke-opacity="1.0" stroke="#73c000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="364.26315"
+                class="id_airfrance" cy="179.92654" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="-765.89813"
+                class="id_amazon" cy="-473.30573" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-229.34473"
+                class="id_asana" cy="-188.09839" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0f3a" r="16.31579" cx="-59.73279"
+                class="id_bitbucket" cy="306.50708" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="374.81506"
+                class="id_booking" cy="-277.9006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-413.97775"
+                class="id_cloudpipes" cy="-836.6208" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0f3a" r="10.0" cx="-125.89996"
+                class="id_cloudbees" cy="148.64917" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0f3a" r="10.0" cx="-198.27292"
+                class="id_codcov" cy="516.9687" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="406.7203"
+                class="id_dailymotion" cy="-162.50597" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="200.5573"
+                class="id_disqus" cy="221.27763" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="35.27832"
+                class="id_dropbox" cy="-282.40585" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="63.684208" cx="736.27405"
+                class="id_facebook" cy="85.11879" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0f3a" r="10.0" cx="-537.84393"
+                class="id_gemnasium" cy="494.25757" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0f3a" r="10.0" cx="121.521484"
+                class="id_gitbook" cy="262.85028" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0f3a" r="41.57895" cx="-240.26451"
+                class="id_github" cy="384.88568" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0f3a" r="13.157895" cx="-248.78671"
+                class="id_gitlab" cy="610.94" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0f3a" r="10.0" cx="-296.2393"
+                class="id_gitter" cy="479.69638" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="824.5307"
+                class="id_giphy" cy="-17.01411" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="70.0" cx="-81.993546"
+                class="id_google" cy="-55.612415" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-1063.37"
+                class="id_heroku" cy="-902.8488" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="820.0802"
+                class="id_instagram" cy="213.42879" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-115.31115"
+                class="id_jira" cy="-206.15323" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0f3a" r="10.0" cx="-479.1931"
+                class="id_jitpack" cy="286.86725" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="13.157895" cx="409.7338"
+                class="id_kinja" cy="254.6199" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="444.30038"
+                class="id_lifehacker" cy="372.40784" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="13.157895" cx="586.97925"
+                class="id_linkedin" cy="212.16237" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="13.157895" cx="-100.02203"
+                class="id_microsoft" cy="-365.59167" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="685.96326"
+                class="id_netflix" cy="-30.266468" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="643.2989"
+                class="id_opodo" cy="-71.50039" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="-886.53625"
+                class="id_paypal" cy="-268.70145" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="533.6024"
+                class="id_pinterest" cy="-210.13902" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="324.13208"
+                class="id_prezi" cy="-204.29955" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="13.157895" cx="-1100.1255"
+                class="id_salesforce" cy="-862.0318" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="-605.3629"
+                class="id_slack" cy="-672.2964" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="24.948137"
+                class="id_slides.io" cy="189.60333" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="126.6304"
+                class="id_stackoverflow" cy="-241.21808" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0f3a" r="10.0" cx="-341.72742"
+                class="id_travis" cy="245.63747" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="8.085706"
+                class="id_trello" cy="-180.40215" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="474.43777"
+                class="id_tripadvisor" cy="-117.18659" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="25.789474" cx="250.33795"
+                class="id_twitter" cy="317.1465" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="179.56032"
+                class="id_vimeo" cy="145.90094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-92.39295"
+                class="id_zendesk" cy="-325.01852" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0f3a" r="10.0" cx="-455.20242"
+                class="id_zenhub" cy="456.09497" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0f3a" r="10.0" cx="-145.40596"
+                class="id_coveralls" cy="416.75833" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="364.26315" y="182.10916" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_airfrance">
+            Air-France
+        </text>
+        <text font-size="12" x="-765.89813" y="-471.1231" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_amazon">
+            Amazon
+        </text>
+        <text font-size="12" x="-229.34473" y="-185.91577" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_asana">
+            Asana
+        </text>
+        <text font-size="16" x="-59.73279" y="309.41724" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bitbucket">
+            Bitbucket
+        </text>
+        <text font-size="12" x="374.81506" y="-275.1213" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_booking">
+            Booking
+        </text>
+        <text font-size="12" x="-413.97775" y="-833.83954" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cloudpipes">
+            Cloudpipes
+        </text>
+        <text font-size="12" x="-125.89996" y="150.87085" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cloudbees">
+            Cloudbees
+        </text>
+        <text font-size="12" x="-198.27292" y="519.19037" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_codcov">
+            Codcov
+        </text>
+        <text font-size="12" x="406.7203" y="-159.72667" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dailymotion">
+            Dailymotion
+        </text>
+        <text font-size="12" x="200.5573" y="224.02177" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_disqus">
+            Disqus
+        </text>
+        <text font-size="12" x="35.27832" y="-279.6617" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dropbox">
+            Dropbox
+        </text>
+        <text font-size="50" x="736.27405" y="94.21303" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_facebook">
+            Facebook
+        </text>
+        <text font-size="12" x="-537.84393" y="496.47925" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gemnasium">
+            Gemnasium
+        </text>
+        <text font-size="12" x="121.521484" y="265.07196" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gitbook">
+            Gitbook
+        </text>
+        <text font-size="34" x="-240.26451" y="391.18042" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_github">
+            Github
+        </text>
+        <text font-size="14" x="-248.78671" y="613.532" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gitlab">
+            Gitlab
+        </text>
+        <text font-size="12" x="-296.2393" y="481.91806" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gitter">
+            Gitter
+        </text>
+        <text font-size="12" x="824.5307" y="-14.197704" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_giphy">
+            Giphy
+        </text>
+        <text font-size="54" x="-81.993546" y="-42.938587" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_google">
+            Google
+        </text>
+        <text font-size="12" x="-1063.37" y="-900.6662" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_heroku">
+            Heroku
+        </text>
+        <text font-size="12" x="820.0802" y="216.20808" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_instagram">
+            Instagram
+        </text>
+        <text font-size="12" x="-115.31115" y="-203.96866" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jira">
+            Jira
+        </text>
+        <text font-size="12" x="-479.1931" y="289.6114" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jitpack">
+            Jitpack
+        </text>
+        <text font-size="14" x="409.7338" y="257.86243" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kinja">
+            Kinja
+        </text>
+        <text font-size="12" x="444.30038" y="374.62756" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lifehacker">
+            Lifehacker
+        </text>
+        <text font-size="14" x="586.97925" y="214.70876" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_linkedin">
+            Linkedin
+        </text>
+        <text font-size="14" x="-100.02203" y="-363.00198" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_microsoft">
+            Microsoft
+        </text>
+        <text font-size="12" x="685.96326" y="-28.046741" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_netflix">
+            Netflix
+        </text>
+        <text font-size="12" x="643.2989" y="-68.71816" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_opodo">
+            Opodo
+        </text>
+        <text font-size="12" x="-886.53625" y="-265.92215" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_paypal">
+            Paypal
+        </text>
+        <text font-size="12" x="533.6024" y="-207.9564" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pinterest">
+            Pinterest
+        </text>
+        <text font-size="12" x="324.13208" y="-202.11693" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_prezi">
+            Prezi
+        </text>
+        <text font-size="14" x="-1100.1255" y="-859.4398" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_salesforce">
+            Salesforce
+        </text>
+        <text font-size="12" x="-605.3629" y="-670.0747" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_slack">
+            Slack
+        </text>
+        <text font-size="12" x="24.948137" y="191.82501" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_slides.io">
+            Slides.io
+        </text>
+        <text font-size="12" x="126.6304" y="-238.9964" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stackoverflow">
+            Stackoverflow
+        </text>
+        <text font-size="12" x="-341.72742" y="247.82008" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_travis">
+            Travis
+        </text>
+        <text font-size="12" x="8.085706" y="-178.21953" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_trello">
+            Trello
+        </text>
+        <text font-size="12" x="474.43777" y="-114.44245" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tripadvisor">
+            Tripadvisor
+        </text>
+        <text font-size="23" x="250.33795" y="321.32986" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_twitter">
+            Twitter
+        </text>
+        <text font-size="12" x="179.56032" y="148.08356" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vimeo">
+            Vimeo
+        </text>
+        <text font-size="12" x="-92.39295" y="-322.8359" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_zendesk">
+            Zendesk
+        </text>
+        <text font-size="12" x="-455.20242" y="458.2776" fill="#d4d4d4"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_zenhub">
+            Zenhub
+        </text>
+    </g>
+</svg>

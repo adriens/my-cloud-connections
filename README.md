@@ -1,2 +1,1 @@
-# my-cloud-connections
-Datas about my cloud connections
+Put the csv files in Neo4J default import directory, on windows : C:\Users\salad74\Documents\Neo4j\default.graphdb\import
