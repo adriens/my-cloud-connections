@@ -30,7 +30,6 @@ salesforce,heroku
 google,trello
 google,asana
 facebook,giphy
-facebook,linkedin
 facebook,slides.io
 google,slides.io
 twitter,slides.io
@@ -57,3 +56,6 @@ twitter,airfrance
 linkedin,airfrance
 google,airfrance
 facebook,opodo
+facebook,siliconangle
+google,siliconangle
+twitter,siliconangle
