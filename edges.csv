@@ -98,9 +98,9 @@ facebook,crowdin
 google,crowdin
 twitter,crowdin
 github,crowdin
-github,crowdin
 gitlab,crowdin
 google,gitlab
 twitter,gitlab
 github,gitlab
 bitbucket,gitlab
+github,gitlocalize
