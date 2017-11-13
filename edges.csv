@@ -65,3 +65,6 @@ facebook,metacritic
 twitter,trakt
 facebook,trakt
 google,trakt
+github,codecov
+bitbucket,codecov
+gitlab,codecov
