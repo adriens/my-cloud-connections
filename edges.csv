@@ -68,3 +68,6 @@ google,trakt
 github,codecov
 bitbucket,codecov
 gitlab,codecov
+github,codebeat
+bitbucket,codebeat
+gitlab,codebeat
