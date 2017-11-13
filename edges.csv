@@ -105,3 +105,5 @@ github,gitlab
 bitbucket,gitlab
 github,gitlocalize
 github,rollbar
+github,logrocket
+google,logrocket
