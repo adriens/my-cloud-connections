@@ -122,3 +122,9 @@ github,wakatime
 github,codeship
 gitlab,codeship
 bitbucket,codeship
+github,wercker
+google,teamcity
+github,teamcity
+yahoo,teamcity
+aol,teamcity
+bitbucket,teamcity

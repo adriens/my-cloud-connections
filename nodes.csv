@@ -3,6 +3,7 @@ accesslint,Accesslint
 airbrake,airbrake.io
 airfrance,Air-France
 amazon,Amazon
+aol,AOL
 appveyor,Appveyor
 asana,Asana
 bettercodehub,bettercodehub.com
@@ -10,6 +11,7 @@ bitbucket,Bitbucket
 blackfire,blackfire
 booking,Booking
 buddy,buddy.works
+buildkite,Buildkite
 circleci,circleci.com
 cloudpipes,Cloudpipes
 cloudbees,Cloudbees
@@ -64,6 +66,7 @@ slides.io,Slides.io
 snyk,snyk.io
 stackoverflow,Stackoverflow
 styleci,styleci.io
+teamcity,TeamCity
 trakt,trakt.tv
 travis,Travis
 trello,Trello
@@ -72,6 +75,8 @@ twitter,Twitter
 vimeo,Vimeo
 waffle,waffle.io
 wakatime,WakaTime
+wercker,wercker
+yahoo,Yahoo
 zendesk,Zendesk
 zenhub,Zenhub
 zube,zube.io
