@@ -107,3 +107,6 @@ github,gitlocalize
 github,rollbar
 github,logrocket
 google,logrocket
+github,blackfire
+google,blackfire
+sensiolabs,blackfire

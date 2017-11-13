@@ -6,6 +6,7 @@ appveyor,Appveyor
 asana,Asana
 bettercodehub,bettercodehub.com
 bitbucket,Bitbucket
+blackfire,blackfire
 booking,Booking
 buddy,buddy.works
 circleci,circleci.com
@@ -52,6 +53,7 @@ rollbar,Rollbar
 rottentomatoes,rottentomatoes
 salesforce,Salesforce
 semaphoreci,semaphoreci.com
+sensiolabs,SensioLabs
 sentry,sentry.io
 siliconangle,siliconAngle
 slack,Slack
