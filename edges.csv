@@ -72,3 +72,5 @@ github,codebeat
 bitbucket,codebeat
 gitlab,codebeat
 github,bettercodehub
+github,coveralls
+bitbucket,coveralls
