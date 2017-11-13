@@ -87,3 +87,6 @@ bitbucket,buddy
 github,circleci
 bitbucket,circleci
 google,circleci
+github,percy
+github,semaphoreci
+github,dependabot

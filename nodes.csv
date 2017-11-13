@@ -17,6 +17,7 @@ codeclimate,codeclimate.com
 codecov,codecov.io
 coveralls,Coveralls
 dailymotion,Dailymotion
+dependabot,Dependabot
 disqus,Disqus
 dropbox,Dropbox
 facebook,Facebook
@@ -40,10 +41,12 @@ microsoft,Microsoft
 netflix,Netflix
 opodo,Opodo
 paypal,Paypal
+percy,percy.io
 pinterest,Pinterest
 prezi,Prezi
 rottentomatoes,rottentomatoes
 salesforce,Salesforce
+semaphoreci,semaphoreci.com
 siliconangle,siliconAngle
 slack,Slack
 slides.io,Slides.io
