@@ -71,3 +71,4 @@ gitlab,codecov
 github,codebeat
 bitbucket,codebeat
 gitlab,codebeat
+github,bettercodehub
