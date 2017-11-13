@@ -84,3 +84,6 @@ microsoft,appveyor
 google,buddy
 github,buddy
 bitbucket,buddy
+github,circleci
+bitbucket,circleci
+google,circleci
