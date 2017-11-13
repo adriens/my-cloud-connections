@@ -119,3 +119,6 @@ github,snyk
 bitbucket,snyk
 google,snyk
 github,wakatime
+github,codeship
+gitlab,codeship
+bitbucket,codeship
