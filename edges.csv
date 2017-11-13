@@ -94,3 +94,13 @@ github,snyk
 bitbucket,snyk
 google,snyk
 github,greenkeeper
+facebook,crowdin
+google,crowdin
+twitter,crowdin
+github,crowdin
+github,crowdin
+gitlab,crowdin
+google,gitlab
+twitter,gitlab
+github,gitlab
+bitbucket,gitlab
