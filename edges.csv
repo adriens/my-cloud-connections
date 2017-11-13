@@ -115,3 +115,6 @@ github,codetree
 github,waffle
 google,zube
 github,zube
+github,snyk
+bitbucket,snyk
+google,snyk
