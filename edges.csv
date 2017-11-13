@@ -77,3 +77,4 @@ bitbucket,coveralls
 github,codacy
 github,styleci
 github,codeclimate
+github,accesslint
