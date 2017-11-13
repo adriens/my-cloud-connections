@@ -1,6 +1,8 @@
 id,label
+accesslint,Accesslint
 airfrance,Air-France
 amazon,Amazon
+appveyor,Appveyor
 asana,Asana
 bettercodehub,bettercodehub.com
 bitbucket,Bitbucket
@@ -53,4 +55,3 @@ twitter,Twitter
 vimeo,Vimeo
 zendesk,Zendesk
 zenhub,Zenhub
-accesslint,accesslint.com

@@ -78,3 +78,6 @@ github,codacy
 github,styleci
 github,codeclimate
 github,accesslint
+github,appveyor
+bitbucket,appveyor
+microsoft,appveyor
