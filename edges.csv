@@ -90,3 +90,6 @@ google,circleci
 github,percy
 github,semaphoreci
 github,dependabot
+github,snyk
+bitbucket,snyk
+google,snyk
