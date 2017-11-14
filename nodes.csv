@@ -3,6 +3,7 @@ accesslint,Accesslint
 airbrake,airbrake.io
 airfrance,Air-France
 amazon,Amazon
+amplitude,amplitude
 aol,AOL
 appfollow,appfollow.io
 appveyor,Appveyor
@@ -10,10 +11,12 @@ arc.ai,arc.ai
 asana,Asana
 assertible,Assertible
 bettercodehub,bettercodehub.com
+bintray,bintray
 bitbucket,Bitbucket
 bitrise,bitrise.io
 blackfire,blackfire
 booking,Booking
+brand24,brand24
 buddy,buddy.works
 buildkite,Buildkite
 circleci,circleci.com
