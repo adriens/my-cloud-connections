@@ -27,8 +27,8 @@ CREATE (a)-[:AUTHENTICATES_ON]->(b);
 
 [source,cypher]
 ----
-MATCH (you {name:"facebook"})-[:AUTHENTICATES_ON]->(yourFriends)
-RETURN yourFriends.name AS `Target site`
+MATCH (you {name:"facebook"})-[:AUTHENTICATES_ON]->(target)
+RETURN target.name AS `Target site`
 ----
 
 //table
