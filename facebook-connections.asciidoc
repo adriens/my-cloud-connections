@@ -1,0 +1,35 @@
+
+== Chargement des données
+
+
+
+//setup
+//output
+[source,cypher]
+----
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/adriens/my-cloud-connections/master/nodes.csv" AS nodes
+CREATE (p:Provider { name: nodes.id });
+----
+
+, puis les relations :
+
+//setup
+//output
+[source,cypher]
+----
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/adriens/my-cloud-connections/master/edges.csv" AS edges
+MATCH (a:Provider { name: edges.source})
+MATCH (b:Provider { name: edges.target })
+CREATE (a)-[:AUTHENTICATES_ON]->(b);
+----
+
+
+
+[source,cypher]
+----
+MATCH (you {name:"facebook"})-[:AUTHENTICATES_ON]->(target)
+RETURN target.name AS `Target site`
+----
+
+//table
+
