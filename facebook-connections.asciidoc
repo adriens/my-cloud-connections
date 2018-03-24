@@ -1,7 +1,21 @@
+image::https://github.com/adriens/my-cloud-connections/raw/master/COVER.jpg[height=300,width=600]
 
-== Chargement des données
+= Showing relations between sites and authentication providers
+:neo4j-version: 3.3.1
+:author: Adrien Sales <Adrien.Sales@gmail.com>
+:twitter: rastadidi
+:mail: Adrien Sales <Adrien.Sales@gmail.com> 
+:linkedin: https://www.linkedin.com/in/adrien-sales/
 
 
+The purpose of this small graphgist to show how third parties authentication is strategic. Facts have recenctly shown the recent https://www.newyorker.com/news/news-desk/cambridge-analytica-facebook-and-the-revelations-of-open-secrets[Cambride Analytica revelations] ... and the birth of the https://twitter.com/hashtag/leavefacebook[#leavefacebook] twitter hashtag that has became viral.
+
+The ambition of this gist is to show how your social network will be impacted if you drop your Facebook account, based on the fact that you use Facebook as an identity provider.
+
+
+== Load datas
+
+First, load datas from (github hosted) csv :
 
 //setup
 //output
@@ -11,7 +25,7 @@ LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/adriens/my-cloud-c
 CREATE (p:Provider { name: nodes.id });
 ----
 
-, puis les relations :
+, then relationships (who authenticates who) :
 
 //setup
 //output
@@ -23,13 +37,68 @@ MATCH (b:Provider { name: edges.target })
 CREATE (a)-[:AUTHENTICATES_ON]->(b);
 ----
 
-
+==== Sites authenticated by Facebook
 
 [source,cypher]
 ----
 MATCH (you {name:"facebook"})-[:AUTHENTICATES_ON]->(target)
-RETURN target.name AS `Target site`
+RETURN you,target
+----
+
+//graph_result
+
+
+=== Sites exclusively authenticated by Facebook
+
+Well, if you drop your Facebook account, you will have to switch to a manual login or an another social network.
+
+But...what about captive services that only use Facebook as identity provider ? Let's get a look at them as they are massively impacted.
+
+I first was using the relations dataset as it was on November 2017. Since this date, i saw that for example Tripadviser or Opodo have added new provider (eg. Google).
+
+So, let's do it short : if i close my facebook account, how am i impacted in my daily use of the services i use ?...and more than this, in fact, which are the services that only rely on Fadebook authentications... ?!
+
+For the following list, you'll have to create an old fashioned login/password account with email validation, etc...
+
+
+//output
+[source,cypher]
+----
+MATCH (p:Provider)-[r:AUTHENTICATES_ON]->(t:Provider)
+WITH t, count(r) as rel_cnt
+where rel_cnt = 1
+MATCH (p:Provider)-[r:AUTHENTICATES_ON]->t
+where p.name = "facebook"
+RETURN t.name
 ----
 
 //table
 
+=== Sites exclusively authenticated by Google
+
+What if i do the same with Google ?
+
+//output
+[source,cypher]
+----
+MATCH (p:Provider)-[r:AUTHENTICATES_ON]->(t:Provider)
+WITH t, count(r) as rel_cnt
+where rel_cnt = 1
+MATCH (p:Provider)-[r:AUTHENTICATES_ON]->t
+where p.name = "google"
+RETURN t.name
+----
+
+//table
+
+=== Contribute datas (nodes/relations)
+
+If you'd like so see more sites or more authentications providers, or even new realtions in this network, please make a Pull Requests on the https://github.com/adriens/my-cloud-connections[Github Project].
+
+=== Conclusion
+
+For an online service, it's pretty dangerous to rely on exclusively on a single authentication provider : you can loose visitors within a little (or not) amount of time.
+
+As a delayed transaction is a lost transaction, this means that this strategic choice can mean decreasing incomes : later can sometimes mean never.
+
+image::https://github.com/adriens/my-cloud-connections/raw/master/NOW_OR_NEVER.jpg[height=300,width=600]
