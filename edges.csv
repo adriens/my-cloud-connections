@@ -316,3 +316,6 @@ google,appery
 linkedin,appery
 github,appery
 microsoft,appery
+twitter,buffer
+facebook,buffer,
+linkedin,buffer
